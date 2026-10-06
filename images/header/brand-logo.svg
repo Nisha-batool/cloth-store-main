@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" role="img" aria-labelledby="title">
+  <title id="title">Nisha Trends - Trendy Clothes Store</title>
+  <rect x="4" y="8" width="104" height="104" rx="24" fill="#1d1720"/>
+  <path d="M25 82V38h9l22 28V38h10v44h-9L35 54v28z" fill="#f0b7c6"/>
+  <circle cx="78" cy="78" r="5" fill="#f0b7c6"/>
+  <text x="128" y="61" fill="#fff4f5" font-family="Arial, sans-serif" font-size="39" font-weight="700">Nisha Trends</text>
+  <text x="130" y="91" fill="#f0b7c6" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">TRENDY CLOTHES STORE</text>
+</svg>
